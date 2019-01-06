@@ -1,10 +1,6 @@
-﻿token=
-owner=228139766573432832 
-
-prefix= 1
-
-game= Universe Bot.
-
+token=NTMxNTA3MDY0Njk1MTYwODMy.DxO8JQ.ppvvywrPvI3YaKtmoTaTm7Axe2M
+owner=513787884449431572
+prefix= F
+game= Faisal Mu
 stayinchannel=true
-
 songinstatus=false
